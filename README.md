@@ -17,6 +17,7 @@ I enjoy using different technologies and always learning something new within th
   
 
 <br/>  
+
 ## Ever wanted to see my projects in action?  
 🎬 Check out my YouTube channel! [YouTube channel](https://www.youtube.com/channel/UCeg20lGIuuJ60lmQGUB1KeQ/featured)  
   
