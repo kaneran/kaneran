@@ -1,28 +1,8 @@
 ## Hey 👋, I'm Kane!  
   
-
-<a href="https://github.com/kaneran" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/kane-dharan" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/channel/UCeg20lGIuuJ60lmQGUB1KeQ/featured" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-  
-
 ### Glad to see you here!  
-I enjoy using different technologies and always learning something new within the tech space. ☕  
-  
-
+I enjoy using different technologies and always learning something new within the tech space. ☕    
 <br/>  
-
-## Want to see my projects in action?  
-🎬 Check out my YouTube channel! [YouTube channel](https://www.youtube.com/channel/UCeg20lGIuuJ60lmQGUB1KeQ/featured)  
-  
-<br/>  
-
 
 ## Languages and Tools (Open to learn anything!)  
 <div align="center">  
