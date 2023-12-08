@@ -1,4 +1,4 @@
-## Hey 👋, I'm Kane!  
+## Hi 👋, I'm Kane!  
   
 ### Glad to see you here!  
 I enjoy using different technologies and always learning something new within the tech space. ☕    
